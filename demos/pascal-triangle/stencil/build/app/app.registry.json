@@ -1,0 +1,20 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "core": "app.whivcwae.js",
+  "corePolyfilled": "app.lljefc51.js",
+  "components": {
+    "pascal-triangle": {
+      "bundleIds": {
+        "$": "quao6bnh"
+      },
+      "encapsulation": "shadow"
+    },
+    "triangle-item": {
+      "bundleIds": {
+        "$": "quao6bnh"
+      }
+    }
+  }
+}

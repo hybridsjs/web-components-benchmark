@@ -1,0 +1,27 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "core": "app.xrbranyg.js",
+  "corePolyfilled": "app.bkspsp2u.js",
+  "components": {
+    "my-todo": {
+      "bundleIds": {
+        "$": "ow2wybod"
+      },
+      "encapsulation": "shadow"
+    },
+    "todo-input": {
+      "bundleIds": {
+        "$": "ow2wybod"
+      },
+      "encapsulation": "shadow"
+    },
+    "todo-item": {
+      "bundleIds": {
+        "$": "ow2wybod"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+App.loadBundle("index.js",function(){window});
